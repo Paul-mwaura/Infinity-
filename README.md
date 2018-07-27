@@ -1,1 +1,1 @@
-# Infinity-Notepad
+# Infinity Notepad
